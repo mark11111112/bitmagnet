@@ -239,4 +239,4 @@ flags:
   apis_enabled: true
   tmdb_enabled: true
   delete_content_types: []
-  delete_xxx: false
+  delete_xxx: true
